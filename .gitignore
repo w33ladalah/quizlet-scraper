@@ -1,1 +1,3 @@
 quizletenv
+*.csv
+*.pyc
